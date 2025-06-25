@@ -26,7 +26,7 @@ Decryption Mode<br><br>
 3. Run the encryption or decryption process.
 
 ## Report issues
-To report any bugs or issues with the injector, please create an [Issue](ISSUES) on Github
+To report any bugs or issues with the injector, please create an [Issue](https://github.com/barhxr/XorDecryptorPlus/issues) on Github
 
 ## Support
 Support this by donating to my [Paypal](https://paypal.me/barhxr)
