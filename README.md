@@ -9,7 +9,7 @@ XorDecryptor+ is a simple tool for encrypting and decrypting data using classic 
 - Light / Dark Mode<br>
 - Using <a href=https://github.com/leocb/MaterialSkin>Material Skin</a> GUI<br clear="left"/>
 
-## Quick look
+## Screenshots
 <img src="images/Image1.png" alt="XorDecryptor+" align="left" width="500" height="500">
 <br clear="left"/>
 <br><br>
