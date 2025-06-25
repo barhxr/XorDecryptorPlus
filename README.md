@@ -26,6 +26,9 @@ Decryption Mode
 2. Enter your data and key in the supported format.
 3. Run the encryption or decryption process.
 
+## Download
+You can download this tool from [Releases Page](release)
+
 ## Report issues
 To report any bugs or issues with the program, please create an [Issue](https://github.com/barhxr/XorDecryptorPlus/issues)
 
