@@ -27,7 +27,7 @@ Decryption Mode
 3. Run the encryption or decryption process.
 
 ## Download
-You can download this tool from [Releases Page](release)
+You can download this tool from [Releases Page](https://github.com/barhxr/XorDecryptorPlus/releases)
 
 ## Report issues
 To report any bugs or issues with the program, please create an [Issue](https://github.com/barhxr/XorDecryptorPlus/issues)
