@@ -7,7 +7,7 @@ XorDecryptor+ is a simple application for encrypting and decrypting data using c
 - Patch mode and block size options<br>
 - Brute force with random 1 or 2 bytes key (XOR only)<br>
 - Light / Dark Mode<br>
-- Using [Material Skin](https://github.com/leocb/MaterialSkin) GUI<br>
+- Using <a href=https://github.com/leocb/MaterialSkin>Material Skin</a> GUI<br>
 <br clear="left"/>
 
 ## Quick look
