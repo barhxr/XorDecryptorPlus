@@ -12,13 +12,14 @@ XorDecryptor+ is a simple application for encrypting and decrypting data using c
 ## Quick look
 <img src="images/Image1.png" alt="XorDecryptor+" align="left" width="500" height="500">
 <br clear="left"/>
-Main Form<br><br>
+<br><br>
+Encryption Mode
 <img src="images/EncryptMode.png" alt="XorDecryptor+" align="left" width="500" height="500">
 <br clear="left"/>
-Encryption Mode<br><br>
+<br><br>
+Decryption Mode
 <img src="images/DecryptMode.png" alt="XorDecryptor+" align="left" width="500" height="500">
 <br clear="left"/>
-Decryption Mode<br><br>
 
 ## Usage
 1. Select the desired algorithm.
