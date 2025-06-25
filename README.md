@@ -12,8 +12,11 @@ XorDecryptor+ is a simple application for encrypting and decrypting data using c
 2. Enter your data and key in the supported format.
 3. Run the encryption or decryption process.
 
-## Contribution
-Contributions are welcome! Please fork this repository and submit a pull request.
+## Report issues
+To report any bugs or issues with the injector, please create an [Issue](ISSUES) on Github
+
+## Support
+You can donate to my [Paypal](https://paypal.me/barhxr)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
