@@ -10,7 +10,7 @@ XorDecryptor+ is a simple application for encrypting and decrypting data using c
 - Using <a href=https://github.com/leocb/MaterialSkin>Material Skin</a> GUI<br clear="left"/>
 
 ## Quick look
-![XorDecryptor+](images/Image1.png)
+<img src="images/Image1.png" alt="XorDecryptor+" align="left" width="300" height="300">
 
 ## Usage
 1. Select the desired algorithm.
